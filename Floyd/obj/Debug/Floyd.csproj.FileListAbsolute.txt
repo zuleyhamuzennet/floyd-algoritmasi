@@ -1,0 +1,11 @@
+C:\Users\Balseias\source\repos\Floyd\Floyd\bin\Debug\Floyd.exe.config
+C:\Users\Balseias\source\repos\Floyd\Floyd\bin\Debug\Floyd.exe
+C:\Users\Balseias\source\repos\Floyd\Floyd\bin\Debug\Floyd.pdb
+C:\Users\Balseias\source\repos\Floyd\Floyd\obj\Debug\Floyd.csprojAssemblyReference.cache
+C:\Users\Balseias\source\repos\Floyd\Floyd\obj\Debug\Floyd.Form1.resources
+C:\Users\Balseias\source\repos\Floyd\Floyd\obj\Debug\Floyd.Matris.resources
+C:\Users\Balseias\source\repos\Floyd\Floyd\obj\Debug\Floyd.Properties.Resources.resources
+C:\Users\Balseias\source\repos\Floyd\Floyd\obj\Debug\Floyd.csproj.GenerateResource.cache
+C:\Users\Balseias\source\repos\Floyd\Floyd\obj\Debug\Floyd.csproj.CoreCompileInputs.cache
+C:\Users\Balseias\source\repos\Floyd\Floyd\obj\Debug\Floyd.exe
+C:\Users\Balseias\source\repos\Floyd\Floyd\obj\Debug\Floyd.pdb
